@@ -1,0 +1,31 @@
+.header {
+    background: $header-background-color;
+    color: $general-text-color;
+    margin-bottom: $m-size;
+}
+
+// no special meaning. Just a BEM (block element modifier) naming convention
+.header__title {
+    width: 100%;
+    font-size: $l-size;
+    padding: $s-size 0; // 1.6 on the top and bottom. 0 on the side
+    margin-bottom: $m-size;
+    margin: 0;   
+    color: $header-title-color;
+}
+
+.header__subtitle {
+    color: $header-subtitle-color;
+    font-size: $m-size;
+    font-weight: 500; // weight
+    margin: 0;
+    padding-bottom: $s-size;
+}
+
+// desktop
+@media (min-width: $desktop-breakpoint) {
+    .header {   
+        margin-bottom: $xl-size;
+         // 1.6 on the top and bottom. 0 on the side
+    }
+}

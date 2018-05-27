@@ -1,0 +1,25 @@
+.widget {
+    background: $widget-backgroup-color;//linear-gradient(-90deg, lighten( $widget-color , 5%), darken( $widget-color , 5%));
+    margin-bottom: $xl-size;
+    border-radius: $xs-size $xs-size 
+}
+
+.widget__message{
+    color: $off-white;
+    margin: 0;
+    padding: $l-size;
+    text-align: center;
+    border-bottom: 1px solid lighten($widget-backgroup-color, 10%);
+}
+
+.widget-header {
+    background: $widget-header-backgroup-color;
+    color: black;
+    padding: $m-size;
+    display: flex;
+    justify-content: space-between;
+}
+
+.widget-header__title {
+    margin: 0;
+}

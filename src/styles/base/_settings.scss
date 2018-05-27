@@ -1,0 +1,30 @@
+// colors
+
+$off-black: #20222b;
+$off-white:rgb(234, 234, 241);
+$dark-blue: #333745;
+$light-blue: #464b5e;
+$blue: rgb(6, 74, 77);
+$purple: rgb(32, 154, 158);
+
+$xs-size: .5rem;
+$s-size: 1.2rem;
+$m-size: 1.6rem; 
+$l-size: 3.2rem;
+$xl-size: 4.8rem;
+$desktop-breakpoint: 45rem;
+
+$general-text-color: rgb(180, 169, 201);
+$app-background-color : white;
+
+$header-background-color : darken( rgb(61, 184, 255), 10%);
+$header-title-color : white;
+$header-subtitle-color : black;
+
+$button-background-color : rgb(61, 184, 255);
+
+$widget-color: rgb(61, 184, 255);
+$widget-backgroup-color : white;//lighten( $widget-color , 10%);
+$widget-header-backgroup-color: white;
+
+$error-message-color : red;
