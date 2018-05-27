@@ -13,12 +13,12 @@ Simple app to become familiar with React and other tools.
 
 <br/>Add Options
 
-<br/><img height="342px" border="black solid 1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_add_options.gif"  title="adding options"/>
+<br/><img height="342px" border="1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_add_options.gif"  title="adding options"/>
 
 <br/>Select Options
 
-<br/><img height="342px" border="black solid 1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_select_options.gif" title="selecting options"/>
+<br/><img height="342px" border="1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_select_options.gif" title="selecting options"/>
 
 <br/>Remove Options
 
-<br/><img height="342px" border="black solid 1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_remove_options.gif" title="removing options"/>
+<br/><img height="342px" border="1px" display="block" margin-left="auto" margin-right="auto" width="50%" src="/resources/indecision_app_remove_options.gif" title="removing options"/>
